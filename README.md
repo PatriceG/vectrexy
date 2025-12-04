@@ -4,6 +4,8 @@ Vectrexy is a [Vectrex](https://en.wikipedia.org/wiki/Vectrex) emulator programm
 
 This project is open source and available on GitHub: https://github.com/amaiorano/vectrexy
 
+** The build is currently BROKEN ** so this repos is pretty useless. My hope was to be able to contribute to it but for now I'm not proficient enough in the details of multi-platorm CMake builds.
+
 ## Download Latest Build
 
 ### Build status ![master branch status](https://github.com/amaiorano/vectrexy/actions/workflows/ci.yml/badge.svg?branch=master)
