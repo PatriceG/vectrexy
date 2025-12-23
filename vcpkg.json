@@ -9,6 +9,12 @@
         "stb",
         "imgui"
     ],
+    "overrides": [
+        {
+            "name": "imgui",
+            "version": "1.90"
+        }
+    ],
     "features": {
         "tests": {
             "description": "Build Tests",
@@ -16,5 +22,6 @@
                 "gtest"
             ]
         }
-    }
+    },
+    "builtin-baseline": "6c937c32233bdf295ab2140dbce97fd00084a5f3"
 }
